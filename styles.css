@@ -1,0 +1,13 @@
+body{
+    background-image: url('backgroung.jpg');
+    
+}
+#date{
+    
+    padding-top: 20px;
+}
+#newsAccordion{
+    max-width: 70%;
+    margin: auto;
+    min-width: 50%;
+}

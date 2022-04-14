@@ -1,0 +1,11 @@
+{
+    "name": "News Shot",
+    "version": "0.0.1",
+    "manifest_version": 2,
+    "browser_action":{
+        "default_popup": "popup.html",
+        "default_icon": "plant.png"
+    }
+    
+
+}
